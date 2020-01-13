@@ -21,6 +21,15 @@ cargo new --lib hello-world
 cargo build --target wasm32-unknown-unknown
 ```
 
+## Run server
+
+```bash
+python3 -m http.server
+```
+
+## Result
+
+![Result 01](./images/practice-01.png)
 
 # Reference
 
